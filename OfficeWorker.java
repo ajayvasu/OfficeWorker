@@ -7,8 +7,7 @@ public class OfficeWorker{
 		Ruler r = new Ruler();
 		r.getLength();
 
-		System.out.println("Working");
-		int a, b;
-		b = 2*a;
+		System.out.println("Hello World~!");
+		
 	}
 }
