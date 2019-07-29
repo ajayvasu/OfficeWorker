@@ -3,7 +3,7 @@ package devices;
 import java.util.*;
 
 public class Tablet{
-	int id;
+	private int id;
 	static int count;
 
 	public Tablet(){

@@ -1,8 +1,10 @@
-import devices.*;
+import stationery.*;
 
 public class OfficeWorker{
 	public static void main(String args[]){
-		Tablet ipad = new Tablet(97);
-		ipad.getId();
+		Pencil p = new Pencil();
+		p.getType();
+		Ruler r = new Ruler();
+		r.getLength();
 	}
 }
