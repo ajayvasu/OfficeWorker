@@ -1,0 +1,7 @@
+Main-Class: OfficeWorker
+
+Name: OfficeWorker/devices
+Sealed: true;
+
+Name: OfficeWorker/stationery
+Sealed: true;
