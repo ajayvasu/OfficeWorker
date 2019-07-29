@@ -6,5 +6,9 @@ public class OfficeWorker{
 		p.getType();
 		Ruler r = new Ruler();
 		r.getLength();
+
+	int a = 5;
+	int b = 7;
+	//	System.out.println(a + b);
 	}
 }
