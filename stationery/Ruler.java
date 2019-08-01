@@ -2,7 +2,7 @@ package stationery;
 
 import java.util.*;
 
-public class Ruler{
+public class Ruler implements Usable{
   int length;
 
   public Ruler(){

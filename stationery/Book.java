@@ -1,6 +1,6 @@
 package stationery;
 
-protected class Book{
+protected class Book implements Usable{
   String bookName;
 
   Book(){

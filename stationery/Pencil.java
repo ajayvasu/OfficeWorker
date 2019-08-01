@@ -1,6 +1,6 @@
 package stationery;
 
-public class Pencil{
+public class Pencil implements Usable{
   private String type;
 
   public Pencil(){

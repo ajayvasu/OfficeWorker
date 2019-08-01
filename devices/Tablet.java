@@ -2,7 +2,7 @@ package devices;
 
 import java.util.*;
 
-public class Tablet{
+public class Tablet implements Usable{
 	private int id;
 	static int count;
 
