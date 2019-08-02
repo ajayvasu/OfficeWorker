@@ -1,11 +1,10 @@
 import stationery.*;
-import java.awt.*;
-import javax.swing.JPanel;
 
-public class OfficeWorker extends JPanel{
+
+public class OfficeWorker{
 	public static void main(String args[]){
-//JPanel game
-		
+		Nesty n = new Nesty();
+		System.out.println(n.function1());
 
 /*		Pencil p = new Pencil();
 		p.getType();
