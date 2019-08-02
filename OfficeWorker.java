@@ -5,8 +5,11 @@ public class OfficeWorker{
 	public static void main(String args[]){
 
 //AWT stuff
-		Frame f = new Frame("Office Worker");
-		f.show();
+		Frame f = new Frame("OfficeWorker");
+		Button b1 = new Button("ClickMe");
+		f.add("Center", b1);
+		f.setVisible(true);
+		
 
 /*		Pencil p = new Pencil();
 		p.getType();
