@@ -1,14 +1,10 @@
 import stationery.*;
 import java.awt.*;
+import javax.swing.JPanel;
 
-public class OfficeWorker{
+public class OfficeWorker extends JPanel{
 	public static void main(String args[]){
-
-//AWT stuff
-		Frame f = new Frame("OfficeWorker");
-		Button b1 = new Button("ClickMe");
-		f.add("Center", b1);
-		f.setVisible(true);
+//JPanel game
 		
 
 /*		Pencil p = new Pencil();
